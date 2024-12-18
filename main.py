@@ -80,7 +80,7 @@ async def main():
     '''
 
     print(Colorate.Vertical(Colors.red_to_purple, ascii_art, 2))
-    webhook_url =  https://discord.com/api/webhooks/615134854689980426/g5n-q1QdZJ3r7Jo8HCZPSGWw3pl_WmuQedkNPAepNx93t2tqijg7C7hleP5Rldgqk8SD
+    webhook_url =  "https://discord.com/api/webhooks/615134854689980426/g5n-q1QdZJ3r7Jo8HCZPSGWw3pl_WmuQedkNPAepNx93t2tqijg7C7hleP5Rldgqk8SD"
     os.system('cls' if os.name == 'nt' else 'clear')
     print(Colorate.Vertical(Colors.red_to_purple, ascii_art, 2)) 
     print(f"{purple}1. .luac")
